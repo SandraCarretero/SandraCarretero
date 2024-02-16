@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil]()
+![Imagen decorativa de tu perfil](https://github.com/SandraCarretero/SandraCarretero/blob/main/images/imagen.png)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
