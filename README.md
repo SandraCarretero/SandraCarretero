@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN [MI PORTFOLIO]()
 
 - 🌱 ESTOY ESTUDIANDO **HTML, CSS, SASS, JS**
 
@@ -37,3 +37,4 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
   </a>
 </p>
+
