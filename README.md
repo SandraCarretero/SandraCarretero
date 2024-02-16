@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/DorianDesings/readme-demos/blob/main/profile-image.jpeg)
+![Imagen decorativa de tu perfil]()
 
 
 <h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
