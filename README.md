@@ -2,7 +2,7 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h3 align="center">ME ENCANTA EL DISEÑO Y DESARROLLO WEB</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [MI PORTFOLIO]()
 
