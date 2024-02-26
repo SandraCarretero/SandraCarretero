@@ -38,7 +38,11 @@
   </a>
 
   <a href="https://sass-lang.com/" style="text-decoration:none">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="BEM metodology">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="sass">
+  </a>
+
+   <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/375px-React.svg.png" target="_blank" rel="noreferrer" width="40" alt="react">
   </a>
 </p>
 
