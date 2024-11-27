@@ -44,5 +44,9 @@
    <a href="https://es.react.dev/" style="text-decoration:none">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/375px-React.svg.png" target="_blank" rel="noreferrer" width="40" alt="react">
   </a>
+
+   <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="jquery">
+  </a>
 </p>
 
