@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
 <h3 align="center">ME ENCANTA EL DISEÑO Y DESARROLLO WEB</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [MI PORTFOLIO]()
+<!-- - 🔭 ACTUALMENTE TRABAJO EN [MI PORTFOLIO]() -->
 
 - 🌱 ESTOY ESTUDIANDO **FRAMEWORKS**
 
