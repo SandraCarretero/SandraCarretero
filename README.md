@@ -52,5 +52,17 @@
   <a href="https://es.react.dev/" style="text-decoration:none">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="nodeJS">
   </a>
+
+  <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="npm">
+  </a>
+
+  <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="mondoDB">
+  </a>
+
+  <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" target="_blank" rel="noreferrer" width="40" alt="firebase">
+  </a>
 </p>
 
