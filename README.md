@@ -48,5 +48,9 @@
    <a href="https://es.react.dev/" style="text-decoration:none">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="jquery">
   </a>
+
+  <a href="https://es.react.dev/" style="text-decoration:none">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="nodeJS">
+  </a>
 </p>
 
