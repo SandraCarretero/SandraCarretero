@@ -37,7 +37,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-[![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandraCarreteroe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandraCarretero&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
