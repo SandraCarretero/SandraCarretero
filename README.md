@@ -20,6 +20,7 @@
 ## 🚀 Proyecto destacado: TURNO
 
 **TURNO** es una aplicación web full stack para registrar partidas de juegos de mesa con amigos, llevar estadísticas, gestionar la ludoteca, amigos, notificaciones en tiempo real y más.
+![Captura de pantalla de TURNO](https://github.com/SandraCarretero/turno-frontend/blob/main/turno-landing.png)
 
 🔗 [Ver demo online](https://turno-frontend.vercel.app/)  
 📌 Funcionalidades:
