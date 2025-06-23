@@ -1,68 +1,64 @@
+# ¡Hola, soy Sandra! 👋
 
+🎯 Desarrolladora **Full Stack** con especial enfoque en **frontend**, apasionada por crear aplicaciones web útiles, limpias y bien estructuradas. Me encanta combinar diseño, lógica y experiencia de usuario en cada proyecto que realizo.
 
-<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Sandra Carretero</h1>
-<h3 align="center">ME ENCANTA EL DISEÑO Y DESARROLLO WEB</h3>
+---
 
-<!-- - 🔭 ACTUALMENTE TRABAJO EN [MI PORTFOLIO]() -->
+## 🧠 Tecnologías y herramientas que utilizo
 
-- 🌱 ESTOY ESTUDIANDO UN MÁSTER EN **DESARROLLO WEB FULL-STACK & IA**
+**Frontend**  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)  
+[![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)  
+[![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)  
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-<!-- - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM) -->
+**Backend**  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)  
+[![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)  
+[![Multer](https://img.shields.io/badge/Multer-000000?style=for-the-badge&logo=file-upload&logoColor=white)](https://github.com/expressjs/multer)  
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://nodemailer.com/)  
+[![Bcrypt](https://img.shields.io/badge/Bcrypt-0052CC?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
 
-- 📫 PUEDES CONTACTARME EN **sandracarretero24@gmail.com**
+**Buenas prácticas**
+- Arquitectura modular · Diseño mobile-first · Rutas protegidas · Principios SOLID · Manejo de APIs REST
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandra-carretero-lopez/" target="blank" style="text-decoration:none">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🚀 Proyecto destacado: TURNO
 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
+**TURNO** es una aplicación web full stack para registrar partidas de juegos de mesa con amigos, llevar estadísticas, gestionar la ludoteca, amigos, notificaciones en tiempo real y más.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
+🔗 [Ver demo online](https://turno-frontend.vercel.app/)  
+📌 Funcionalidades:
+- Registro de partidas y estadísticas personalizadas
+- Autenticación con JWT
+- Dashboard con gráficos y métricas
+- Integración con la API de BoardGameGeek
+- Notificaciones en tiempo real mediante WebSockets
+- Subida de imágenes y gestión de cuenta
 
-<a href="https://getbem.com/">
-      <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
-  </a>
+🛠️ Tecnologías principales:
+`React` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `WebSockets` · `Styled Components`
 
-  <a href="https://sass-lang.com/" style="text-decoration:none">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" target="_blank" rel="noreferrer" width="40" alt="sass">
-  </a>
+---
 
-   <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/375px-React.svg.png" target="_blank" rel="noreferrer" width="40" alt="react">
-  </a>
+## 📊 Estadísticas de GitHub
 
-   <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="jquery">
-  </a>
+[![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancarlope&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="nodeJS">
-  </a>
+---
 
-  <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="npm">
-  </a>
+## 📬 Contacto
 
-  <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" target="_blank" rel="noreferrer" width="40" alt="mondoDB">
-  </a>
+🔗 [LinkedIn: Sandra Carretero López](https://www.linkedin.com/in/sandra-carretero-lopez/)
 
-  <a href="https://es.react.dev/" style="text-decoration:none">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" target="_blank" rel="noreferrer" width="40" alt="firebase">
-  </a>
-</p>
+---
 
+_Gracias por visitar mi perfil 😊_
