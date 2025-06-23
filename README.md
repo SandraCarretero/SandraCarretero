@@ -2,6 +2,14 @@
 
 🎯 Desarrolladora **Full Stack** con especial enfoque en **frontend**, apasionada por crear aplicaciones web útiles, limpias y bien estructuradas. Me encanta combinar diseño, lógica y experiencia de usuario en cada proyecto que realizo.
 
+<a href="https://www.linkedin.com/in/sandra-carretero-lopez/" target="_blank" style="margin-right:10px;">
+  <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" height="24" />
+</a> https://www.linkedin.com/in/sandra-carretero-lopez/
+<br/>
+<a href="mailto:sandracarretero24@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" width="24" height="24" />
+</a> sandracarretero24@gmail.com
+
 ---
 
 ## 🧠 Tecnologías y herramientas que utilizo
@@ -12,40 +20,16 @@
 **Backend**  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/) [![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) [![Multer](https://img.shields.io/badge/Multer-000000?style=for-the-badge&logo=file-upload&logoColor=white)](https://github.com/expressjs/multer) [![Nodemailer](https://img.shields.io/badge/Nodemailer-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://nodemailer.com/) [![Bcrypt](https://img.shields.io/badge/Bcrypt-0052CC?style=for-the-badge&logo=git&logoColor=white)](https://github.com/kelektiv/node.bcrypt.js)
 
-**Buenas prácticas**
-- Arquitectura modular · Diseño mobile-first · Rutas protegidas · Principios SOLID · Manejo de APIs REST
-
 ---
 
 ## 🚀 Proyecto destacado: TURNO
+<img src="https://github.com/SandraCarretero/turno-frontend/blob/main/turno-landing.png" width="440" />
 
-**TURNO** es una aplicación web full stack para registrar partidas de juegos de mesa con amigos, llevar estadísticas, gestionar la ludoteca, amigos, notificaciones en tiempo real y más.
-![Captura de pantalla de TURNO](https://github.com/SandraCarretero/turno-frontend/blob/main/turno-landing.png)
-
-🔗 [Ver demo online](https://turno-frontend.vercel.app/)  
-📌 Funcionalidades:
-- Registro de partidas y estadísticas personalizadas
-- Autenticación con JWT
-- Dashboard con gráficos y métricas
-- Integración con la API de BoardGameGeek
-- Notificaciones en tiempo real mediante WebSockets
-- Subida de imágenes y gestión de cuenta
-
-🛠️ Tecnologías principales:
-`React` · `Redux Toolkit` · `Node.js` · `Express` · `MongoDB` · `WebSockets` · `Styled Components`
-
----
+[![SandraCarretero/turno-frontend - GitHub](https://gh-card.dev/repos/SandraCarretero/turno-frontend.svg)](https://github.com/SandraCarretero/turno-frontend)
 
 ## 📊 Estadísticas de GitHub
 
 [![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandraCarretero&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandraCarretero&layout=compact&theme=tokyonight)](https://github.com/SandraCarretero)
 
----
 
-## 📬 Contacto
-
-🔗 [LinkedIn: Sandra Carretero López](https://www.linkedin.com/in/sandra-carretero-lopez/)
-
----
-
-_Gracias por visitar mi perfil 😊_
