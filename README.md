@@ -4,11 +4,10 @@
 
 <a href="https://www.linkedin.com/in/sandra-carretero-lopez/" target="_blank" style="margin-right:10px;">
   <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" height="24" />
-</a> https://www.linkedin.com/in/sandra-carretero-lopez/
-<br/>
+</a>
 <a href="mailto:sandracarretero24@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" width="24" height="24" />
-</a> sandracarretero24@gmail.com
+</a>
 
 ---
 
