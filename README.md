@@ -1,6 +1,6 @@
 # ¡Hola, soy Sandra! 👋
 
-🎯 Desarrolladora **Full Stack** con especial enfoque en **frontend**, apasionada por crear aplicaciones web útiles, limpias y bien estructuradas. Me encanta combinar diseño, lógica y experiencia de usuario en cada proyecto que realizo.
+🎯 Desarrolladora **Full Stack** con especial enfoque en **Front End**, apasionada por crear aplicaciones web útiles, limpias y bien estructuradas. Me encanta combinar diseño, lógica y experiencia de usuario en cada proyecto que realizo.
 
 <a href="https://www.linkedin.com/in/sandra-carretero-lopez/" target="_blank" style="margin-right:10px;">
   <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" height="24" />
